@@ -10,4 +10,7 @@ Un bot discord pour vos serveur. manager + securiter
   <li><a href="">Mise a jour  du bot</a></li>
   <li><a href="">invitation du bot</a></li>
 </ol>
+<hr>
 
+</hr>
+<h2>Présentation du bot</h2>
