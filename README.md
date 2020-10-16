@@ -2,7 +2,7 @@
 Un bot discord pour vos serveur. manager + securiter
 
 <hr>
-::after
+::after == $0
 ::before
 </hr>
 
