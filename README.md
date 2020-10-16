@@ -1,2 +1,5 @@
-# Bdsm-Manager-s-curit-
-Un bot discord pour vos serveur. manager + securite 
+# Bdsm-Manager-securiter
+Un bot discord pour vos serveur. manager + securiter
+
+
+
