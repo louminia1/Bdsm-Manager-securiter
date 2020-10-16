@@ -8,7 +8,7 @@ Un bot discord pour vos serveur. manager + securiter
   <li><a href="">Présentation du bot</a></li>
   <li><a href="">Commandes du bot</a></li>
   <li><a href="">Mise a jour  du bot</a></li>
-  <li><a href="">invitation du bot</a></li>
+  <li><a href="https://discord.com/api/oauth2/authorize?client_id=765997805864222741&permissions=8&scope=bot">invitation du bot</a></li>
 </ol>
 <hr>
 
@@ -24,3 +24,28 @@ Quesque ce bot rajoute au discord BDSM ?
   <li> Un systémes de recherche de profils pour relations serieuse  </li>
   <li> Options a venir  </li>
 </ol>
+
+<hr>
+
+</hr>
+
+<h2>Commandes du bot:</h2>
+
+<h3>Commandes Profil</h3>
+<table>
+  <tr>
+    <th>Prefix</th>
+    <th>commande</th>
+    <th>Exemple</th>
+    <th>Commantaire</th>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
