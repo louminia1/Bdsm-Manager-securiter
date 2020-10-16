@@ -107,7 +107,7 @@ Quesque ce bot rajoute au discord BDSM ?
     </tr>
     <tr>
       <th>b!</th>
-      <th>desc "Descritions" (pratiques)</th>
+      <th>desc "Descritions"</th>
       <th>b!desc J'aime le bdsm depuis 5 ans </th>
       <th> merci de mettre ou non une description  </th>
     </tr>
