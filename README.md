@@ -33,12 +33,28 @@ Quesque ce bot rajoute au discord BDSM ?
 
 <h3>Commandes Profil</h3>
 <table>
-  <tr>
-    <th>Prefix</th>
-    <th>commande</th>
-    <th>Exemple</th>
-    <th>Commantaire</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Prefix</th>
+      <th>commande</th>
+      <th>Exemple</th>
+      <th>Commantaire</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>b!</th>
+      <th>profil stats</th>
+      <th>b!profil stats</th>
+      <th>Permet afficher le profil</th>
+    </tr>
+    <tr>
+      <th>b!</th>
+      <th>profil create</th>
+      <th>b!profil create</th>
+      <th>Permet de crée le profil</th>
+    </tr>
+  </tbody>
 </table>
 
 
