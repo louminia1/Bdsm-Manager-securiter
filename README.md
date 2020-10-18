@@ -25,6 +25,9 @@ Quesque ce bot rajoute au discord BDSM ?
   <li> Options a venir  </li>
 </ol>
 
+Vous n'avais mare de faire constament des certifications ? avec ce bot c'est simple, vous rentrer une fiche 1 seule fois puis avec tous les serveur ou il y a ce bot vous pourrai detourner la sécurité nous savons que nous pouvont vous faire confiance..
+Etre certitier sur le bot c'est d'etre certifier par tous
+
 <hr>
 
 </hr>
